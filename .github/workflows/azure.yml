@@ -1,4 +1,4 @@
-name: Deploy Node.js app without Redis to Azure
+name: Deploy Node.js app without Redis to azure
 on:
   push:
     branches:
